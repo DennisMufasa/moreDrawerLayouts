@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Emobilis</string>
+    <string name="Loading">Loading...</string>
+    <string name="title_activity_home">home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="heading">MUFASA</string>
+    <string name="email">denny.munga@outlook.com</string>
+</resources>
